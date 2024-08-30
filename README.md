@@ -23,10 +23,15 @@ alt="alejandro antonio castillo jácamo" height="30" width="40" /></a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" />
     </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-            height="40" />
+    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" 
+        alt="JavaScript" width="40" height="40" />
     </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
+        alt="matlab" width="40" height="40" />
+    </a>
+
 <!-- Herramientas de desarrollo -->
 <h3 align="left">Tools:</h3>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -73,11 +78,20 @@ alt="alejandro antonio castillo jácamo" height="30" width="40" /></a>
     <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" height="40" />
     </a>
+    <a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer">
+        <img src="https://www.osboxes.org/wp-content/uploads/2018/04/ubuntu-server-desktop-post.png" alt="Ubuntu Server" width="80"
+            height="40" />
+    </a>
     <a href="https://www.microsoft.com/es-es/windows?r=1" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" alt="Microsoft Windows" width="40"
-            height="40" >
+            height="40" />
     </a>
+<!-- Proyectos -->
 <h3 align="left">Projects:</h3>
 <ul>
-<li><a href="https://github.com/BlueAACJ/Proyecto-Base-De-Datos">Project0:"Prototipo de Sistema de Gestión Financiera para Grupo Talse"</a></li>
+<li><a href="https://github.com/BlueAACJ/Proyecto-Base-De-Datos">Prototipo de Sistema de Gestión Financiera para Grupo Talse</a></li>
+<p>Implementación de una Base de Datos en un prototipo de sistema web diseñado para la empresa Grupo Talse.</p>
+
+<li><a href="https://github.com/BlueAACJ/Proyecto-Administradores-Base-De-Datos-Public-Version">Sistema de Gestion de prestamos bajo nomina para la empresa Grupo Talse</a></li>
+<p>Sistema Web de Administración de Préstamos bajo nomina desarrollado para la empresa Grupo Talse.</p>
 </ul>
