@@ -2,7 +2,13 @@
 **BlueAACJ/BlueAACJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Alejandro Castillo.</h1>
-<h3 align="center"> Computer engineering student at the National Engineering University of Nicaragua. </h3>
+<h3 align="center"> Computer engineering student at the National Engineering University of Nicaragua.</h3>
+<!-- Actualidad -->
+<h2 align="left">💼 Professional Experience</h2>
+
+<p align="left">
+I’m a <strong>Software Developer</strong> at <a href="https://azocarnicaragua.com"><strong>Servicios Electrónicos Azocar S.A</strong></a> specializing in hardware programming for weighing systems with Python, web development tools, and proprietary languages.
+</p>
 <!-- Informacion de Contacto -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
