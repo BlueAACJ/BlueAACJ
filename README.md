@@ -108,7 +108,7 @@ alt="alejandro antonio castillo jácamo" height="30" width="40" /></a>
 <!-- Insignia -->
 <h2 align="left">🎖️ Insignia:</h2>
 <p align="left">
-    <a href="[https://api.badgr.io/public/assertions/BCko5X80T2Skw0X2XketUQ](https://badgr.com/backpack/badges/677d399aaa883e2013bcf02f)" target="_blank" rel="noreferrer"> 
+    <a href="https://badgr.com/public/assertions/BCko5X80T2Skw0X2XketUQ" target="_blank" rel="noreferrer"> 
         <img src="https://media.badgr.com/uploads/badges/assertion-BCko5X80T2Skw0X2XketUQ.png?versionId=6kmTxcOZ.JGYrCJqnvU.aT6cx2ISYy7U" alt="Postman API Fundamentals Student Expert" width="90" height="90"/>
     </a>
 </p>
